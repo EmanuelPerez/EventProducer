@@ -7,6 +7,11 @@ git clone git@github.com:HEP-FCC/EventProducer.git
 cd EventProducer/
 git checkout spring2021
 ```
+and create a new branch
+```
+git branch mylocal
+git checkout mylocal
+```
 
 To-do's  for local running :
 ========================
