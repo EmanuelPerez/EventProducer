@@ -28,7 +28,7 @@ mkdir /eos/user/e/eperez/generation/DelphesEvents
     - /afs/cern.ch/user/U/USERID/public/FCCDicts/yaml/FCCee
 
   - Edit the file param\_FCCee.py  in the config directory: 
-    - Replace everywhere helsens by your userid
+    - Replace everywhere helsens by your userid (and the letter "h" in the /afs/... path, of course)
     - Search for stdhep\_dir and replace /eos/experiment/fcc/ee/generation/stdhep/ by   /YOUR\_EOS\_DIRECTORY/generation/stdhep/
     - Search for delphes\_dir and replace /eos/experiment/fcc/ee/generation/DelphesEvents/ by  /YOUR\_EOS\_DIRECTORY/generation/DelphesEvents
 
